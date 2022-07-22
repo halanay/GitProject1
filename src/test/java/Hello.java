@@ -5,9 +5,6 @@ public class Hello {
         System.out.println("Created Git Repository");
         System.out.println("Devoloping hello feature");
 
-        System.out.println("Tester");
-
-
 
     }
 }
